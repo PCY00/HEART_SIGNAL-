@@ -6,6 +6,16 @@
 
 <br><br>
 
+## file
+- The following three folders are data based on heart rate based on
+   - 박찬영
+   - 정민섭
+   - 최대영
+  
+
+
+<br><br>
+
 ## Data Measurement Method
 
 1. **Wearing the Galaxy Watch**:
