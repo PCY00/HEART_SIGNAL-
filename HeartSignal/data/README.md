@@ -34,6 +34,8 @@
   - Max Heart Rate
   - Real-time Heart Rate
 
+<br><br>
+
 ## Data Processing
 
 - **Filename**: `data_csv.py`
