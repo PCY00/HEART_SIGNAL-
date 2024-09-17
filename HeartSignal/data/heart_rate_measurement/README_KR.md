@@ -13,7 +13,6 @@
    - 운동 종료 후 왼쪽으로 터치하여 "종료"를 눌러 데이터 측정을 종료합니다.
 
    **데이터 측정 방법 (영상)**:
-   
    [영상 보기](https://youtube.com/shorts/HP1Lgp2Oono?feature=share)
 
    **주의사항**:
@@ -25,8 +24,7 @@
      - 휴식(90초) 종료 5초 전에 체크하고 바로 운동 시작
 
    **예시 사진**:
-   
-   [사진 링크](링크)
+   ![사진 링크](https://github.com/user-attachments/assets/06a42bee-0920-45f0-82e1-d298a85c20b6)
 
 ## 데이터 가져오는 방법
 
@@ -41,10 +39,10 @@
    - JSON 폴더에서 "exercise"를 압축하고 카카오톡으로 나에게 보내기 합니다.
 
    **데이터 가져오는 방법 (영상)**:
-   
    [영상 보기](https://youtu.be/mee9Ge_fe1U)
 
 ## 가져온 데이터 CSV 파일에 저장 방법
+
 
 1. **설치 및 준비**:
    - Visual Studio Code를 설치합니다.
@@ -56,13 +54,11 @@
    - "넣을 데이터" 부분에 압축 해제한 파일의 데이터를 붙여넣고 Python 코드를 실행합니다.
 
    **Unix 타임스탬프 변환 사이트**:
-   
    [변환 사이트](https://time.is/ko/Unix%20time%20converter)
 
    - 타임스탬프 뒤의 3자리 숫자를 제거해야 합니다.
 
    **가져온 데이터 CSV 파일에 저장 방법 (영상)**:
-   
    [영상 보기](https://youtu.be/0HgWgeoy-Hc)
 
 ## 데이터 분류 방법
@@ -79,14 +75,15 @@
    - 예: `2023072212` (연, 월, 일, 시)
 
    **데이터 분류 방법 (영상)**:
-   
    [영상 보기](https://youtu.be/t_aJSXOJGAk)
 
 ## 데이터 작성법
 
 1. **CSV 파일 데이터**:
    - CSV 파일에 저장된 데이터는 다음과 같은 형식으로 나타납니다:
-     - [사진 링크](링크)
+     - ![사진 링크](https://github.com/user-attachments/assets/aedc9f23-de15-42e1-8b11-f8ef3f51adfa)
+     - ![그림3](https://github.com/user-attachments/assets/627a8cd5-6662-43a5-91c5-432f4d6b47a2)
+
 
 2. **데이터 입력**:
    - 열 3, 4, 5에 평소 안정 심박수, 최대 심박수, 최소 심박수를 순서대로 입력합니다.
@@ -94,10 +91,11 @@
    - 최대 심박수와 최소 심박수는 다음 명령어로 쉽게 작성할 수 있습니다:
      - `=MAX(B:클릭)` (최대 심박수)
      - `=MIN(B:클릭)` (최소 심박수)
+     - ![그림4](https://github.com/user-attachments/assets/6f9088a1-a48a-4bca-bffd-36cd18d1db2b)
+     - ![그림6](https://github.com/user-attachments/assets/f2d87415-0f18-4ef9-a022-28953f0d6e06)
+     - ![그림5](https://github.com/user-attachments/assets/4cc53e2f-037b-4067-84a2-b03b8764d957)
 
-   - [사진 링크](링크)
-   - [사진 링크](링크)
-   - [사진 링크](링크)
+
 
 ## 추가 정보
 
