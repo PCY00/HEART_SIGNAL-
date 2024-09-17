@@ -12,11 +12,16 @@
   - **MAX30102**: Inaccurate
   - **ECG**: Inaccurate
 
+<br>
+
+
 - **Alternative Equipment**:
   - **Galaxy Watch 4**:
     - **Method**: Real-time heart rate measurement during exercise via the Samsung Health app
     - **Data Format**: Can be extracted as a JSON file
     - **Limitation**: Cannot measure rest times between sets
+
+<br><br>
 
 ## Data Processing Method
 
