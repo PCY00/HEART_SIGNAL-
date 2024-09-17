@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/154f0dde-3122-48d8-b97f-604f4c33a794)![image](https://github.com/user-attachments/assets/e5d641df-13c3-4bb7-9f91-339e91505e42)# HeartSignal
+# HeartSignal
 
 ## 언어 선택
 
