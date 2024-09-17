@@ -18,28 +18,25 @@
 - 운동을 하면 심박수가 올라가고 휴식을 취할 시 심박수는 내려간다. 이를 통해 휴식과 심박수 사이의 연관성이 있다고 생각함
 - 논문을 찾아본 결과 심박수 기준 휴식 시간과 고정 휴식 시간의 총 운동량 차이는 없었지만 휴식 시간은 심박수 기준이 더 적었다는 연구가 있음을 알게 됨
   - (심박수기준 세트간 휴식조건에 따른 벤치프레스 운동시 휴식시간, 반복횟수, 총운동량, 및 근통증에 미치는 영향, 정환종, 최종인, 김기홍,한국스포츠학회  한국스포츠학회지  제18권 제4호  2020.12 pp.997-1008) )
-
-
-
+- 심박수 기준으로 실시한 휴식 방법이 더 효율적이고 심박수 회복은 개개인 마다 다르기 때문에 더 개인에게 맞는 휴식 시간을 제공할 수 있을 것이라고 생각함.
+  - 기준 심박은 101~105로 설정함
+  - (Costill, D. L., Kenney, W. L., & Wilmore, J. (2008). Physiology of sport and exercise (Vol. 448, p. 449). Human kinetics.)
+- 근비대적 측면에서 명확하게 개수나 중량설정에 관한 논문은 찾기 힘들었지만 적절한 운동 템포를 통해 근비대에 효과적인 운동을 할 수 있다는 논문을 참고함
+  - (The Influence of Movement Tempo Druing Resistance Training on Muscular Strenth and Hypertrophy Responses: A Review, 2021,Sports Medicine)
+- 카르보넨 공식을 통해 운동강도를 판단하는 기준을 제시함
+  - 최대 심박수 = 220 - 나이
+  - 운동 강도에 따른 목표 심박수 = {(최대 심박수 - 안정 시 심박수) X 운동 강도(%)} - 안정 시 심박도
 
 
 <br><br>
 
-## 고려한 부분
 
-- 요즘 미세먼지의 심각성
-- 매장의 쾌적성 실시간 유지
-- 매장에 키오스크의 필요성 ( 경제성 -> 요즘은 키오스크는 필수적 따라서 키오스크에 추가 기능 구현함)
-
-<br><br>
-
-
-## 설치 사진
+## 모델링 및 실제 사진
 <div align="center">
   
-  | 실제 |
-  |:---:|
-  | <img src="https://github.com/user-attachments/assets/314c94d4-e6bc-4acf-934e-5a8bf56400b1" width="350px" height="470px" alt="실제"> |
+  | 모델링 | 실제 |
+  |:---:|:---:|
+  | <img src="https://github.com/user-attachments/assets/f33ba7d8-d844-4683-86ca-b2c6476bfc70" width="300px" height="300px" alt="모델링"> | <img src="https://github.com/user-attachments/assets/76339354-688e-4d6e-ae65-061b71928745" width="300px" height="300px" alt="설치"> |
 </div>
 
 <br><br>
