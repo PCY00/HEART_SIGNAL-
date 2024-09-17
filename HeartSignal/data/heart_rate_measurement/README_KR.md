@@ -24,6 +24,7 @@
      - 휴식(90초) 종료 5초 전에 체크하고 바로 운동 시작
 
    **예시 사진**:
+   
    ![사진 링크](https://github.com/user-attachments/assets/06a42bee-0920-45f0-82e1-d298a85c20b6)
 
 ## 데이터 가져오는 방법
@@ -81,8 +82,10 @@
 
 1. **CSV 파일 데이터**:
    - CSV 파일에 저장된 데이터는 다음과 같은 형식으로 나타납니다:
-     - ![사진 링크](https://github.com/user-attachments/assets/aedc9f23-de15-42e1-8b11-f8ef3f51adfa)
-     - ![그림3](https://github.com/user-attachments/assets/627a8cd5-6662-43a5-91c5-432f4d6b47a2)
+
+     ![사진 링크](https://github.com/user-attachments/assets/aedc9f23-de15-42e1-8b11-f8ef3f51adfa)
+       
+     ![그림3](https://github.com/user-attachments/assets/627a8cd5-6662-43a5-91c5-432f4d6b47a2)
 
 
 2. **데이터 입력**:
@@ -91,9 +94,9 @@
    - 최대 심박수와 최소 심박수는 다음 명령어로 쉽게 작성할 수 있습니다:
      - `=MAX(B:클릭)` (최대 심박수)
      - `=MIN(B:클릭)` (최소 심박수)
-     - ![그림4](https://github.com/user-attachments/assets/6f9088a1-a48a-4bca-bffd-36cd18d1db2b)
-     - ![그림6](https://github.com/user-attachments/assets/f2d87415-0f18-4ef9-a022-28953f0d6e06)
-     - ![그림5](https://github.com/user-attachments/assets/4cc53e2f-037b-4067-84a2-b03b8764d957)
+     ![그림4](https://github.com/user-attachments/assets/6f9088a1-a48a-4bca-bffd-36cd18d1db2b)
+     ![그림6](https://github.com/user-attachments/assets/f2d87415-0f18-4ef9-a022-28953f0d6e06)
+     ![그림5](https://github.com/user-attachments/assets/4cc53e2f-037b-4067-84a2-b03b8764d957)
 
 
 
