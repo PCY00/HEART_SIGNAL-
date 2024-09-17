@@ -6,6 +6,10 @@
 
 <br><br>
 
+## [Go directly to used data](https://github.com/PCY00/HEART_SIGNAL-/tree/main/HeartSignal/data/heart_rate_measurement)
+
+<br><br>
+
 ## Overview
 
 ### Problem Identification
@@ -50,10 +54,6 @@
 - The app part is not included; designed and developed using App Inventor, so the design and performance are suboptimal.
 
 [Deep Learning-Based Rest Time Estimation Video](https://youtube.com/shorts/TX3P9vqnglA)
-
-<br><br>
-
-## [Go directly to used data](https://github.com/PCY00/HEART_SIGNAL-/tree/main/HeartSignal/data/heart_rate_measurement)
 
 <br><br>
 
