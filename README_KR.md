@@ -41,34 +41,27 @@
 
 <br><br>
 
-## SmartAirKiosk 구동 영상
+### 딥러닝을 통한 휴식시간 추정 구동 영상
 
-[SmartAirKiosk 구동 영상 보기](https://youtu.be/KF5rC-BnxO0)
+- 앱 파트 없이 앱 인벤터로 제작하여 디자인 및 성능이 좋지 않음
+
+[딥러닝을 통한 휴식시간 추정 구동 영상](https://youtube.com/shorts/TX3P9vqnglA)
 
 <br><br>
 
 ## 디렉토리 형식
 
 ```
-SmartAirKiosk/
+HeartSignal/
 ├── APP/
-│   ├── APP.jpg
-│   ├── PMS_Alarm.jpg
+│   ├── app.jpg
+│   ├── app_code.jpg
 │   │
-├── GUI/
-│   ├── gui.py
+├── arduino/
+│   ├── HW_code.ino
 │   │
-├── Sensor/
-│   ├── RaspberryPi_3_PMS.py
-│   ├── Temp_relay.cpp
-│   ├── 초음파_PIR.cpp
-│ 
-├── Wiring/
-│   ├── Wiring.jpg
-│   │
-├── modeling/
-│   ├── SmartAir.png
-│   ├── modeling.step
+├── data/
+│   ├── data_csv.py
 
 ```
 
