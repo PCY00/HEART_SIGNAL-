@@ -31,6 +31,7 @@
 
 ## Modeling and Actual Photos
 <div align="center">
+  
   | Modeling | Actual |
   |:---:|:---:|
   | <img src="https://github.com/user-attachments/assets/f33ba7d8-d844-4683-86ca-b2c6476bfc70" width="300px" height="300px" alt="Modeling"> | <img src="https://github.com/user-attachments/assets/76339354-688e-4d6e-ae65-061b71928745" width="300px" height="300px" alt="Installation"> |
