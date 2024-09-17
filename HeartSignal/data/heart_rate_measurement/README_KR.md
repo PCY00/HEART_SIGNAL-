@@ -92,8 +92,10 @@
    - 열 3, 4, 5에 평소 안정 심박수, 최대 심박수, 최소 심박수를 순서대로 입력합니다.
    - 평소 안정 심박수는 운동 전 체크한 값을 입력합니다.
    - 최대 심박수와 최소 심박수는 다음 명령어로 쉽게 작성할 수 있습니다:
+   
      - `=MAX(B:클릭)` (최대 심박수)
      - `=MIN(B:클릭)` (최소 심박수)
+     
      ![그림4](https://github.com/user-attachments/assets/6f9088a1-a48a-4bca-bffd-36cd18d1db2b)
      ![그림6](https://github.com/user-attachments/assets/f2d87415-0f18-4ef9-a022-28953f0d6e06)
      ![그림5](https://github.com/user-attachments/assets/4cc53e2f-037b-4067-84a2-b03b8764d957)
