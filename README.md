@@ -49,6 +49,8 @@
 
 ## [Go directly to used data](https://github.com/PCY00/HEART_SIGNAL-/tree/main/HeartSignal/data/heart_rate_measurement)
 
+<br><br>
+
 ## Directory Format
 
 ```
@@ -65,6 +67,10 @@ HeartSignal/
 │   │
 ├── data/
 │   ├── data_csv.py
+│   ├── heart_rate_measurement
+│   │    ├── 박찬영
+│   │    ├── 정민섭
+│   │    ├── 최대영
 
 ```
 
