@@ -14,15 +14,21 @@
 - There may be uncertainty about whether the exercise is being performed at the right intensity or how to execute the exercises correctly.
 - A device that provides personalized rest times and checks if the exercise intensity is appropriate could enhance exercise efficiency.
 
+<br>
+
 ### Solution
 - Heart rate increases during exercise and decreases during rest. Thus, there is an association between rest and heart rate.
+
 - Research shows that while there was no difference in total exercise volume between heart rate-based rest times and fixed rest times, the heart rate-based rest time was shorter.
   - (심박수기준 세트간 휴식조건에 따른 벤치프레스 운동시 휴식시간, 반복횟수, 총운동량, 및 근통증에 미치는 영향, 정환종, 최종인, 김기홍,한국스포츠학회  한국스포츠학회지  제18권 제4호  2020.12 pp.997-1008)
+
 - Using heart rate-based rest methods is more efficient, and since heart rate recovery varies between individuals, it provides a more personalized rest time.
   - Standard heart rate is set at 101-105
   - (Costill, D. L., Kenney, W. L., & Wilmore, J. (2008). Physiology of sport and exercise (Vol. 448, p. 449). Human kinetics.)
+
 - While specific research on the number of repetitions or weights for hypertrophy is scarce, there are studies indicating that appropriate exercise tempo can be effective for hypertrophy.
   - (The Influence of Movement Tempo During Resistance Training on Muscular Strength and Hypertrophy Responses: A Review, 2021, Sports Medicine)
+
 - The Karvonen formula is used to determine exercise intensity:
   - Maximum Heart Rate = 220 - Age
   - Target Heart Rate for Exercise = {(Maximum Heart Rate - Resting Heart Rate) X Exercise Intensity (%) } + Resting Heart Rate
