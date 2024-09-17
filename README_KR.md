@@ -6,6 +6,11 @@
 
 <br><br>
 
+## [사용한 데이터로 바로 이동](https://github.com/PCY00/HEART_SIGNAL-/tree/main/HeartSignal/data/heart_rate_measurement)
+
+<br><br>
+
+
 ## 개요
 
 ### 문제 인식
@@ -51,10 +56,6 @@
 - 앱 파트 없이 앱 인벤터로 제작하여 디자인 및 성능이 좋지 않음
 
 [딥러닝을 통한 휴식시간 추정 구동 영상](https://youtube.com/shorts/TX3P9vqnglA)
-
-<br><br>
-
-## [사용한 데이터로 바로 이동](https://github.com/PCY00/HEART_SIGNAL-/tree/main/HeartSignal/data/heart_rate_measurement)
 
 <br><br>
 
